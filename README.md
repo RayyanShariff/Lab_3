@@ -1,4 +1,4 @@
-# Lab 3 - jQuery Exercises
+# jQuery Exercises
 
 This project contains a series of exercises to practice jQuery. The exercises demonstrate various jQuery functionalities such as event handling, DOM manipulation, and CSS styling.
 
